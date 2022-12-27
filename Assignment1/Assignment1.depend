@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1661904975 source:c:\users\jason\source\repos\assignment1\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	"debug.h"
+	"debug.cpp"
+	<string.h>
+
+1661795520 c:\users\jason\source\repos\assignment1\debug.h
+
+1661905001 c:\users\jason\source\repos\assignment1\debug.cpp
+	<fstream>
+	<iostream>
+
